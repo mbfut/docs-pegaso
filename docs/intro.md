@@ -34,7 +34,7 @@ In C:\Adpegaso, tasto destro > Proprietà > Sicurezza > Modifica > Aggiungi > Sc
 
 ### Rendere permanente la connessione con il server
 
-- Posizionarsi sul pc client (postazione di rete) e aprire le ‘RISORSE DI RETE’ da icona sul desktop
+- Posizionarsi sul pc client (postazione di rete) e aprire le ‘Risorse di rete’ da icona sul desktop
 - Cliccare due volte sull’icona corrispondente al Server (apparirà l’elenco di tutti i pc della rete) su cui è stato installata la postazione principale di Pegaso
 - Cliccare con il tasto destro del mouse sulla cartella ‘ADPEGASO’ e selezionare la voce ‘Connetti unità di rete’
 
