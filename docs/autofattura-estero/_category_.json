@@ -1,0 +1,8 @@
+{
+  "label": "Autofattura estero",
+  "position": 11,
+  "link": {
+    "type": "generated-index",
+    "description": "Dal 01/07/2022 i dati delle operazioni effettuate con controparti estere (acquisti e vendite) andranno trasmessi all’Agenzia delle Entrate utilizzando il formato della fatturazione elettronica (trasmissione del singolo file XML tramite SdI). Si passa quindi da un invio massivo dei dati, a cadenza trimestrale (blocco DTR o DTE dell’esterometro), ad una trasmissione dei singoli file XML (fatture di acquisto e fatture di vendita estere)."
+  }
+}
